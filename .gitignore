@@ -1,0 +1,25 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Frontend
+node_modules
+dist
+dist-ssr
+*.local
+
+# .NET
+backend/**/bin/
+backend/**/obj/
+*.user
+appsettings.*.local.json
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.vs/
+.DS_Store
+*.suo
+*.sw?
